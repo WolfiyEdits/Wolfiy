@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url(Fonts/Roboto-Light.ttf);
+    /* Font: Google */
+}
+
+
+div *:not(h1) {
+    color: white;
+    font-family: "Roboto-Light";
+}
+
+p {
+    font-size: 110%;
+}
